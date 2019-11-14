@@ -1,0 +1,2 @@
+admin = http://localhost/desasentul2/index.php/weladmin/allslider
+halaman = http://localhost/desasentul2/
